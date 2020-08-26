@@ -1,3 +1,6 @@
 fdgdfgdf
 cambio desde la rama oscar
 nuevo cambio para verificar como se unen 
+
+dependiendo de la rama se ven los estados de lso archivos , se usa merge
+ para unir los distintos estados
